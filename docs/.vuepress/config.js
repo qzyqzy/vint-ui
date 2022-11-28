@@ -3,7 +3,7 @@ import { demoblockPlugin } from "vuepress-plugin-demoblock-plus";
 export default {
   lang: "zh-CN",
   base: "/vint-ui/",
-  title: "您好！",
+  title: "Vue3 组件库",
   plugins: [demoblockPlugin()],
   theme: defaultTheme({
     navbar: [
