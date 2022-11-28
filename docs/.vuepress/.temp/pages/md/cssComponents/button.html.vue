@@ -8,14 +8,14 @@
 <span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="演示" tabindex="-1"><a class="header-anchor" href="#演示" aria-hidden="true">#</a> 演示</h2>
 <p>基础的按钮用法。</p>
 <demo customClass="" sourceCode="&lt;template&gt;
- &lt;vint-button&gt;我是自定义按钮&lt;/vint-button&gt;
+ &lt;vint-button&gt; 我是自定义按钮 &lt;/vint-button&gt;
 &lt;/template&gt;
 "><render-demo-0 />
         
         <template #highlight>
           <div v-pre class="language-vue">
             <pre class="shiki" style="background-color: var(--shiki-color-background)"><code><span class="line"><span style="color: var(--shiki-color-text)">&lt;</span><span style="color: var(--shiki-token-string-expression)">template</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
-<span class="line"><span style="color: var(--shiki-color-text)"> &lt;</span><span style="color: var(--shiki-token-string-expression)">vint-button</span><span style="color: var(--shiki-color-text)">&gt;我是自定义按钮&lt;/</span><span style="color: var(--shiki-token-string-expression)">vint-button</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
+<span class="line"><span style="color: var(--shiki-color-text)"> &lt;</span><span style="color: var(--shiki-token-string-expression)">vint-button</span><span style="color: var(--shiki-color-text)">&gt; 我是自定义按钮 &lt;/</span><span style="color: var(--shiki-token-string-expression)">vint-button</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
 <span class="line"><span style="color: var(--shiki-color-text)">&lt;/</span><span style="color: var(--shiki-token-string-expression)">template</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
 <span class="line"></span></code></pre>
           </div>
@@ -36,7 +36,7 @@ function render(_ctx, _cache) {
 
   return (_openBlock(), _createBlock(_component_vint_button, null, {
     default: _withCtx(() => [
-      _createTextVNode("我是自定义按钮")
+      _createTextVNode(" 我是自定义按钮 ")
     ]),
     _: 1 /* STABLE */
   }))

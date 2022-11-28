@@ -17,7 +17,7 @@ Vue.component('vint-button', Button)
 
 ```vue
 <template>
- <vint-button>我是自定义按钮</vint-button>
+ <vint-button> 我是自定义按钮 </vint-button>
 </template>
 ```
 :::
