@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-73fd2ac0\",\"path\":\"/md/lib/better.html\",\"title\":\"Vite 项目优化\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"Css 预处理\",\"slug\":\"css-预处理\",\"link\":\"#css-预处理\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"md/lib/better.md\"}")

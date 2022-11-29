@@ -1,4 +1,4 @@
-<template><div><h1 id="vint-ui" tabindex="-1"><a class="header-anchor" href="#vint-ui" aria-hidden="true">#</a> Vint UI</h1>
+<template><div><h1 id="vint-ui-介绍" tabindex="-1"><a class="header-anchor" href="#vint-ui-介绍" aria-hidden="true">#</a> Vint UI 介绍</h1>
 <blockquote>
 <p>基于 <strong>Vue 3.0</strong> 的移动端组件库</p>
 </blockquote>

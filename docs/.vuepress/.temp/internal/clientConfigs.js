@@ -1,12 +1,12 @@
-import clientConfig0 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-active-header-links@2.0.0-beta.51/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig1 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-back-to-top@2.0.0-beta.51/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import clientConfig2 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-external-link-icon@2.0.0-beta.51/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
-import clientConfig3 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-medium-zoom@2.0.0-beta.51/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import clientConfig4 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-nprogress@2.0.0-beta.51/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import clientConfig5 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+plugin-theme-data@2.0.0-beta.51/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig6 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/@vuepress+theme-default@2.0.0-beta.51/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from 'C:/Users/15757/Desktop/其他/UI/Vint/node_modules/.pnpm/vuepress-plugin-demoblock-plus@2.0.2_sass@1.56.1/node_modules/vuepress-plugin-demoblock-plus/dist/client/config.mjs'
-import clientConfig8 from 'C:/Users/15757/Desktop/其他/UI/Vint/docs/.vuepress/client.js'
+import clientConfig0 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-active-header-links@2.0.0-beta.51/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig1 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-back-to-top@2.0.0-beta.51/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig2 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-external-link-icon@2.0.0-beta.51/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig3 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-medium-zoom@2.0.0-beta.51/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import clientConfig4 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-nprogress@2.0.0-beta.51/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig5 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+plugin-theme-data@2.0.0-beta.51/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig6 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/@vuepress+theme-default@2.0.0-beta.51/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/node_modules/.pnpm/vuepress-plugin-demoblock-plus@2.0.2_sass@1.56.1/node_modules/vuepress-plugin-demoblock-plus/dist/client/config.mjs'
+import clientConfig8 from '/Users/zhaomenghan/Desktop/vue3-ui/vint-ui/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,

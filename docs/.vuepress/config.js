@@ -12,10 +12,15 @@ export default {
       { text: "Npm", link: "https://www.npmjs.com/package/vint-ui" },
     ],
     sidebar: [
+      {
+        text: "组件库搭建",
+        collapsible: true,
+        children: ["/md/lib/start", "/md/lib/better"],
+      },
       "/",
       {
         text: "CSS 组件",
-        collapsible: false,
+        collapsible: true,
         children: ["/md/cssComponents/button"],
       },
     ],
